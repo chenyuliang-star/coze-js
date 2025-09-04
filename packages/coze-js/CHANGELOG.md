@@ -1,5 +1,13 @@
 # @coze/api
 
+## 1.3.7 - 2025-09-04
+
+### Bug Fixes
+
+- fix ChatV3Message Type and ws  no voice in mobile
+- Publish release/20250811-31920c
+
+
 ## 1.3.5 - 2025-07-08
 
 ### Other Changes
